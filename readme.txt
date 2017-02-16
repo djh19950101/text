@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 aaabb
 14949897090
+这是一个分支style上的修改
